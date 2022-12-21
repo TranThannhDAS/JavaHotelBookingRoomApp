@@ -1,0 +1,3 @@
+Customer: customerID=qwe3, customerName='gerq', customerPhone='34252461'.
+Customer: customerID=DQ2, customerName='HENRY', customerPhone='012315425'.
+Customer: customerID=KH-1234, customerName='Hoang', customerPhone='0123456789'.

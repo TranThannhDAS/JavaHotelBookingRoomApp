@@ -1,0 +1,2 @@
+Room: roomID=121, roomType='QUEEN', price_per_hour='34.0'.
+Room: roomID=WQW2, roomType='DOUBLE', price_per_hour='34.0'.
